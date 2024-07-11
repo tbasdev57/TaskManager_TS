@@ -59,9 +59,9 @@ To contribute to this project, please follow these guidelines:
 
 - Commits using Conventional Commits
 
-## Contributors:
 
-[KevinCubas](https://github.com/kevinCubas)
+
+
 
 ## License:
 This project is licensed under the MIT License.
